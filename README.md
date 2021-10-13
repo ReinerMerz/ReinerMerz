@@ -1,4 +1,4 @@
-![smarttools-logo](.MyAssignments.png)
+![smartUI](MyAssignments.png)
 ### Hello
 
 I am Reiner Merz working as a smartUI and Oscript Pro at ebit-Company in Stuttgart, Germany.
